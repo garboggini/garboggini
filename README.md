@@ -1,18 +1,5 @@
-👋 Welcome to my GitHub!
+Hello there 👋
 
-📚 About Me
+I’m a student of Frontend, Data Science, and Game Development. On this profile, I share my projects, challenges, and learnings in these areas with the goal of evolving and contributing to the developer community. 🚀
 
-I’m a programming student and a passionate enthusiast of technology! I’m always looking to learn something new and challenge myself with practical projects.
-
-💻 What You’ll Find Here
-
-This profile is where I share the projects and studies I’ve been working on. They reflect my learning journey, my curiosities, and my progress in the tech world.
-
-🚀 Technologies of Interest
-
-Web Development 🌐
-Automation 🤖
-Artificial Intelligence 🤖💡
-Software Development 💾
-🌟 Let’s Grow Together!
-If you have suggestions, tips, or want to collaborate on a project, feel free to reach out. Let’s learn and build something amazing!
+Currently, I’m focused on improving my skills with JavaScript, React, Python, and Machine Learning, as well as exploring game development with Unity. If you’re interested in any of these areas or want to exchange ideas, feel free to reach out! 😉
